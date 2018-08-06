@@ -18,9 +18,8 @@ package oto
 
 import (
 	"errors"
-	"strings"
-
 	"github.com/gopherjs/gopherwasm/js"
+	"strings"
 )
 
 type player struct {
